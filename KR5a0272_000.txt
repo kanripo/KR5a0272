@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:09.886917
+# -*- mode: mandoku-view -*-
 #+TITLE: 修真十書盤山語錄
-#+PROPERTY: DZID  DZ0263i
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—822 一卷 洞真部方法類
+#+DATE: 2015-08-28 23:44:10
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0272_HFL_001-001a>¶<pb:KR5a0272_SJB_001-040822a>
+
